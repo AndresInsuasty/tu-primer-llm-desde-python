@@ -1,0 +1,10 @@
+[project]
+name = "tu-primer-llm-desde-codigo"
+version = "0.1.0"
+description = "Tu primer LLM desde Python: la API de OpenAI o gratis con Ollama, con el mismo código. Video 2 del minicurso Agentes de IA con Python desde cero."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=3.48.0",
+    "python-dotenv>=1.2.4",
+]
