@@ -106,7 +106,8 @@ Una llamada corta con `gpt-6-luna` cuesta cerca de **$0,000019**. Los precios ca
 
 1. [Qué es un agente de IA, en 30 líneas de Python](https://github.com/AndresInsuasty/agente-ia-30-lineas-python)
 2. **Tu primer LLM desde Python: API de OpenAI o gratis con Ollama** (este repositorio)
-3. Próximamente: respuestas en JSON confiable con Pydantic
+3. [Respuestas en JSON confiable con Pydantic](https://github.com/AndresInsuasty/json-confiable-pydantic)
+4. Próximamente: tool calling, dale funciones de Python a tu modelo
 
 ## Reto
 
